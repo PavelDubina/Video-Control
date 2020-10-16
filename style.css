@@ -24,7 +24,7 @@ body{
 .speed{
     position: absolute;
     flex:1;
-    right: 5px;
+    right: 30px;
     top: 0px;
     height: 100%;
     display: flex;
@@ -33,7 +33,7 @@ body{
     border-radius: 50px;
     overflow: hidden;
     box-shadow: 0 0 1px 3px rgba(0,0,0,0.1);
-    transform: translateX(150%);
+    transform: translateX(100px);
     transition: all 0.5s;
 }
 .speed-bar {
